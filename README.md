@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Visitor Count](https://profile-counter.glitch.me/Nafiul-Islam-DS/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/nafiul-afk/count.svg)
   
   ## Nafiul Islam
 </div>
