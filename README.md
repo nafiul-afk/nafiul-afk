@@ -49,6 +49,13 @@
 
 ## 🌐 Connect
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nafiulislam490)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nafiul-islam-739359279/)
+<p align="left">
+<a href="https://kaggle.com/nafiulislam490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nafiulislam490" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Btman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Btman_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nafiul-afk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nafiul-afk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nafiul-islam-739359279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafiul-islam-739359279" height="30" width="40" /></a>
+
+</p>
+
+
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafiulislammmm@gmail.com)
