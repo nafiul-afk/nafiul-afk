@@ -1,7 +1,7 @@
 <div align="center">
 
   ![Visitor Count](https://profile-counter.glitch.me/Nafiul-Islam-DS/count.svg)
-
+  
   ## Nafiul Islam
 </div>
 
@@ -58,4 +58,5 @@
 </p>
 
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafiulislammmm@gmail.com)
+<a href="mailto:nafiulislammmm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
