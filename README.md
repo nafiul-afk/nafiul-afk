@@ -43,7 +43,7 @@
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul-afk&theme=highcontrast&count_private=false&include_all_commits=false&hide_border=false" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul-afk&theme=high-contrast&count_private=false&include_all_commits=false&hide_border=false" />
 </div>
 
 
@@ -58,5 +58,5 @@
 </p>
 
 
-<a href="mailto:nafiulislammmm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:nafiulislammmm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 
