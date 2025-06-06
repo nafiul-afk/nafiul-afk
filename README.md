@@ -57,6 +57,6 @@
 
 </p>
 
-
-<a href="mailto:nafiulislammmm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://nafiul-afk.github.io/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:nafiulislammmm@gmail.com)
 
