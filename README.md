@@ -55,6 +55,7 @@
 <a href="https://codeforces.com/profile/Btman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Btman_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nafiul-afk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nafiul-afk" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nafiul-islam-739359279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafiul-islam-739359279" height="30" width="40" /></a>
+<a href="https://x.com/NafiulAfk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NafiulAfk" height="30" width="40" /></a>
 
 </p>
 
