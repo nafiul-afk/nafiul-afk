@@ -1,3 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+
+
+
 <div align="center">
 
   ![Visitor Count](https://profile-counter.glitch.me/nafiul-afk/count.svg)
@@ -46,6 +50,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul-afk&theme=high-contrast&count_private=true&include_all_commits=false&hide_border=false&area=true&order=5" />
 </div>
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 
 ## 🌐 Connect
@@ -63,3 +68,4 @@
 [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://nafiul-afk.github.io/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:nafiulislammmm@gmail.com)
 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
