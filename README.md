@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&fontAlign=50&fontAlignY=50&color=gradient"/>
 
 
 
@@ -17,8 +17,10 @@
 ![Llama](https://img.shields.io/badge/-Llama-7B1FA2?style=flat-square&logo=meta&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-6A5ACD?style=flat-square&logo=OpenAI&logoColor=white)
 
+### Language
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="43" /></div>
+
 ### Data Science
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=green)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=red)
 
@@ -77,4 +79,4 @@
 [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://nafiul-afk.github.io/) 
 
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
