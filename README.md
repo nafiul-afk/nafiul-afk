@@ -33,6 +33,15 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
+
+---
+
+<div align="center">
+  
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
+
+</div>
+
 ---
 
 <div align="center">
