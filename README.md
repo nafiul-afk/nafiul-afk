@@ -38,7 +38,7 @@
 
 <div align="center">
   
-![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
+![Snake ](https://github.com/nafiul-afk/nafiul-afk/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
