@@ -38,7 +38,7 @@
 
 <div align="center">
   
-![Snake ](https://github.com/nafiul-afk/nafiul-afk/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/nafiul-afk/nafiul-afk/blob/main/github-user-contribution.svg)
 
 </div>
 
