@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!+Welcome+to+my+profile&fontAlign=50&fontAlignY=30&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!+Welcome+to+my+profile&fontAlign=50&fontAlignY=10&color=gradient"/>
 
 
 
