@@ -45,7 +45,7 @@
 ---
 
 <div align="center">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=nafiul-afk&show_icons=true&theme=dark&hide_border=false&count_private=false&include_all_commits=false" />
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=nafiul-afk&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" />
 </div>
 <div align="center">
   <img height="200em" src="https://streak-stats.demolab.com?user=nafiul-afk&show_icons=true&theme=highcontrast&hide_border=false&count_private=true&include_all_commits=true)](https://git.io/streak-stats)" />
