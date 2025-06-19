@@ -3,7 +3,9 @@
 
 
 <div align="center">
-
+  
+  ![:Nafiul Islam](https://moe-count.glitch.me/get/@:nafiul-afk)
+  
   ![Visitor Count](https://profile-counter.glitch.me/nafiul-afk/count.svg)
   
   ## I'm Nafiul
