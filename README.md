@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ![:Nafiul Islam](https://moe-count.glitch.me/get/@:nafiul-afk)
+  ![:Nafiul Islam](https://moe-count.glitch.me/get/@:nafiul-afk?theme=asoul)
   
   ![Visitor Count](https://profile-counter.glitch.me/nafiul-afk/count.svg)
   
