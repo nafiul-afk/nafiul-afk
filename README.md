@@ -67,9 +67,9 @@
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul-afk&theme=high-contrast&count_private=true&include_all_commits=false&hide_border=false&area=true&order=5" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul-afk&theme=high-contrast&count_private=true&include_all_commits=false&hide_border=true&area=true&order=5" />
 </div>
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
+
 
 
 ## 🌐 Connect
