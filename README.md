@@ -53,14 +53,12 @@
 <div align="center">
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-afk&layout=compact&theme=dark&hide_border=false" />
   </div>
+<div align="center">  
   
-## Top Contributed Repo
-<div align="center">
+![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiul-afk&theme=dark)
 
-![](https://github-contributor-stats.vercel.app/api?username=nafiul-afk&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
-
-  </div>
-
+![SUM](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafiul-afk&theme=dark)
+</div>
 
 ## 📊 Contribution Graph
 
