@@ -45,14 +45,11 @@
 ---
 
 <div align="center">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=nafiul-afk&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" />
+  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nafiul-afk?cardType=level&theme=dark&fontFamily=&preferLogin=false&Ring=DD2727)](https://git.io/awesome-stats-card)
+
 </div>
-<div align="center">
-  <img height="200em" src="https://streak-stats.demolab.com?user=nafiul-afk&show_icons=true&theme=highcontrast&hide_border=false&count_private=true&include_all_commits=true)](https://git.io/streak-stats)" />
-</div>
-<div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-afk&layout=compact&theme=dark&hide_border=false" />
-  </div>
+
 <div align="center">  
   
 ![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiul-afk&theme=dark)
