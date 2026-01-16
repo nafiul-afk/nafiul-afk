@@ -38,6 +38,8 @@
 
 <div align="center">
   
+[![GitHub Streak](https://streak-stats.demolab.com?user=nafiul-afk&theme=highcontrast&short_numbers=true&ring=FF0000)](https://git.io/streak-stats)
+  
 ![GitHub Snake](https://github.com/nafiul-afk/nafiul-afk/blob/main/github-user-contribution.svg)
 
 </div>
