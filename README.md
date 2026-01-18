@@ -36,9 +36,13 @@
 
 ---
 
+
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=nafiul-afk&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)" />
+</div>
+
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=nafiul-afk&theme=highcontrast&short_numbers=true&ring=FF0000)](https://git.io/streak-stats)
   
 ![GitHub Snake](https://github.com/nafiul-afk/nafiul-afk/blob/main/github-user-contribution.svg)
 
