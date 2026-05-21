@@ -1,0 +1,46 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push: { branches: ["master"] }
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          use_prebuilt_image: yes
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: hxreborn
+          template: classic
+          filename: metrics.svg
+
+          base: header, repositories
+          repositories_forks: no
+          repositories_affiliations: owner, collaborator, organization_member
+          commits_authoring: ${{ secrets.COMMITS_AUTHORING }}
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_indepth: no
+          plugin_languages_ignored: Adblock Filter List, HTML, CSS, Makefile, Dockerfile, YAML, JSON, TOML, Nix
+
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_repositories: no
+          plugin_notable_indepth: no
+          plugin_notable_types: pull_request
+          plugin_notable_skipped: |
+            @use.patterns
+            Xposed-Modules-Repo/*
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+
+          repositories_skipped: 
