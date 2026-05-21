@@ -19,7 +19,6 @@ jobs:
           base: header, repositories
           repositories_forks: no
           repositories_affiliations: owner, collaborator, organization_member
-          commits_authoring: ${{ secrets.COMMITS_AUTHORING }}
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
