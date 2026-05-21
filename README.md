@@ -39,6 +39,9 @@
 ---
 
 
+![metrics](metrics.svg)
+
+
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=nafiul-afk&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)" />
 </div>
